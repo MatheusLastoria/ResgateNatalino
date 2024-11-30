@@ -7,7 +7,7 @@ Este é um jogo 2D onde o papai noel precisa entregar um presente a uma criança
 <br><br>
 
 
-![logo_ResgateNatalino](https://github.com/MatheusLastoria/ResgateNatalino/blob/main/ResgateNatalino_Creditos.png)
+![logo_ResgateNatalino](https://github.com/MatheusLastoria/ResgateNatalino/blob/main/ResgateNatalino_creditos.png)
 <br><br>
 o ProjetoNatalino.exe é um arquivo gerado a partir da engine GameMeker, basta executar e seguir o passo a passo para a instalação.
 <br><br>
