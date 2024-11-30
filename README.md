@@ -1,5 +1,5 @@
 # Resgate Natalino
-![logo_ResgateNatalino](https://github.com/MatheusLastoria/ResgateNatalino/blob/main/ResgateNatalino_menu.png)
+![logo_ResgateNatalino](https://github.com/MatheusLastoria/ResgateNatalino/blob/main/Logo_ResgateNatalino.png)
 <br><br>
 Jogo desenvolvido para a GameOff de Nov 2024, o tema solicitado pela jam foi "Segredo" com 30 dias para ser feito
 
