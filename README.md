@@ -15,6 +15,6 @@ Este é um jogo 2D onde o papai noel precisa entregar um presente a uma criança
 ![logo_ResgateNatalino](https://github.com/MatheusLastoria/ResgateNatalino/blob/main/ResgateNatalino_creditos.png)
 
 <br><br>
-o ResgateNatalino.exe é um arquivo gerado a partir da engine GameMeker, basta executar e seguir o passo a passo para a instalação.
+o ResgateNatalino.exe é um arquivo gerado a partir da engine GameMaker, basta executar e seguir o passo a passo para a instalação.
 <br><br>
 https://drive.google.com/file/d/1RF0h0ghlSs-ryiS0_txTACQcSOSM0CAf/view?usp=sharing
